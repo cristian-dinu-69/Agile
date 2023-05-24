@@ -1,0 +1,159 @@
+Agile Development Process.
+
+Upon completion of this video, you will be able to describe the steps involved in the basic project management process.
+Objectives
+describe the steps involved in the basic Agile project management process
+
+Topic Title: Agile Development Process
+
+In this video, I'll describe the steps involved in basic Agile project management process. 
+
+So let's examine the Agile development process. 
+Agile development encourages an ongoing process of improvement. 
+The goal of Agile is to produce : 
+
+shorter development cycles, resulting in more frequent product releases than a traditional waterfall process. 
+It's possible to use any number of different Agile project management frameworks, but each one follows the same basic process. 
+
+So first, there's 
+
+1. project planning, 
+   2.sprint planning, 
+     3. product roadmap creation, 
+       4. daily meetings, 
+         5.release planning, and 
+           6. review and retrospectives.
+
+Project Planning.
+
+So the Agile method of project management and software development is designed to be ready for change 
+and to manage additions to the project easily. 
+Before beginning a project, the team should 
+
+*** understand the end goals, 
+
+understand the 
+
+****value to the organization of the client and how it will be achieved. 
+
+And in this stage, you can also 
+
+*** develop a project scope. 
+
+But it's important to remember that the project scope shouldn't be seen as unchangeable.
+
+ 
+**** A product roadmap 
+
+is a plan of action for how a product or a solution will evolve over time.
+
+A product roadmap includes a 
+*** breakdown of the features that will make up the final product. 
+
+**** project deliverables ***
+
+When it's used in Agile development, a roadmap provides crucial context for the team's deliverables. 
+
+Because the team will deliver these individual features using each sprint. 
+
+
+So in this stage, you'll also develop a 
+
+*** product backlog*** , which is a list of all the features 
+and deliverables that will make up the final product. 
+And this helps link the team's 
+
+*** project tasks*** back to the product roadmap.
+
+
+* Release planing
+
+Instead of trying to develop every proposed feature in one large, 
+regimented project, 
+Agile planning breaks down the development process into stages called releases. 
+
+In traditional waterfall project management, there's one implementation date and that comes after an entire project has been developed. 
+
+When using an Agile methodology, the project ***uses shorter development cycles called sprints. ***
+There are then ***periodic releases*** of features at the end of each sprint cycle. 
+
+****Feature release plan
+
+Release planning also creates a high level plan for these future releases.
+
+ 
+
+Sprint Planning.
+
+Before each sprint begins, the stakeholders will need to hold *** planning sessions. 
+So they can plan what will be accomplished by each person during that sprint and how it will be achieved. 
+
+*** Team transparency 
+
+They'll need to confirm team capacity, as well as any currently known issues and concerns, 
+and record those as appropriate in a transparent way. 
+
+*** Task asignment
+
+It's important to note that it's the team that selects how much work they can do in coming up 
+with the sprint and who to assign it to. 
+
+*** Remove bottlenecks
+
+And it's also important to share the load evenly among team members so that they can 
+accomplish their assigned tasks during the sprint and help avoid or remove bottlenecks.
+
+*** Daily meetings
+
+Each day, at about the same time, the team needs to hold a meeting so as to bring everybody up to date. 
+Each member will walk through and talk about what they accomplished the day before and 
+what they'll be working on that day. 
+Usually, scrum's three questions are used to structure that meeting's discussion. 
+
+**** One, what have you completed since the last meeting, 
+which is usually yesterday? 
+
+****Two, what are you planning to complete by the next meeting or today? 
+
+****Three, what are your roadblocks, what's getting in your way? 
+
+These daily meetings should only be 15 minutes long.
+
+At the end of each sprint, your team is going to hold two meetings. 
+
+First, 
+
+*** Sprint Review
+
+you're going to hold a sprint review with the project stakeholders. 
+This is where the project team demonstrates the results of the work that they have done in the sprint, 
+and the required stakeholders accept that work or don't. 
+It's an important part of keeping **open communication** with the stakeholders, 
+and it's also an important time to **receive feedback** from the stakeholders.
+
+Show finished products
+open communication
+receive feedback
+
+Second
+
+Sprint retrospective
+
+you're going to have a sprint retrospective meeting with your stakeholders.
+
+And the purpose of this meeting is to reflect on **what went well and what didn't go well** in the previous sprint, 
+to determine how things can be improved in the next sprint. 
+And then if your team's new to Agile project management, we don't want to skip this meeting. 
+
+Because it's going to help us gauge the team load or how much the team can tackle during 
+each sprint and determine the most effective sprint length for future projects. 
+In simple terms, the sprint review is focused on product and maximizing the business value of 
+the results of the work of the sprint you've just completed. 
+And then the sprint retrospective is focused on the process and continuous process improvement.
+
+discuss what went well
+area for improvment
+task load review
+
+4. Video: Agile Manager Roles and Responsibilities
+

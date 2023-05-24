@@ -1,0 +1,34 @@
+Objectives
+discover the key concepts covered in this course
+[Video description begins] Topic Title: Course Overview. [Video description ends]
+
+Hi, I'm Colin Calnan, and I'm a senior web developer with over 10 years experience.
+
+[Video description begins] Your host for the session is Colin Calnan. 
+He is a Senior Web Developer. [Video description ends]
+
+I hold a bachelor's degree in computer science, and a master's degree in design and digital media. 
+And I'm comfortable throughout the full stack of web development process, and I'm also an experienced instructor. 
+I've taught Drupal development and continuing education at university level. 
+Software project managers should be able to apply the tools and techniques that help transition from traditional PM to a model where there's continuous feedback across all areas of the organization.
+
+This can be accomplished by using Agile techniques for planning,
+ tracking, and monitoring Agile projects, programs, and portfolios. 
+In this course, 
+I'll discuss the 
+Agile manifesto, 
+Agile principles and key methodologies, as well as 
+Agile roles, 
+Agile practices, and techniques. 
+Some of the specific topics I'll cover are going to include what 
+Agile project management is, 
+the Agile development process, 
+Agile manager roles and responsibilities. 
+Agile member roles and responsibilities, 
+Agile best practices, 
+Agile teams, 
+Agile collaboration, 
+Agile artifacts, 
+Agile management tools, 
+the Agile life cycle, continuous integration in Agile, and then finally, 
+Agile assessments.

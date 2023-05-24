@@ -1,0 +1,201 @@
+After completing this video, you will be able to describe how the Agile process applies 
+to project management and how it differs from the waterfall method.
+
+Objectives
+
+describe how the Agile process applies to project management and how it is different from the waterfall method
+
+[Video description begins] Topic Title: Agile Project Management. Your host for the session is Colin Calnan. [Video description ends]
+
+
+
+In this video, I'll describe how the Agile process applies to project management and 
+how it differentiates from the waterfall method. 
+
+So there could be a lot of confusion about what Agile is. 
+So there are some interesting and diverse perspectives about what it is, 
+including things like, it's the daily standup thing that we do, or it's a method that doesn't require documentation,
+or it's a way for us to deliver stuff quicker.
+Now, in order to truly understand what Agile is and the value that it provides, 
+you'll need to know the 12 principles of the Agile Manifesto.
+
+Once you correlate your needs to the areas that Agile helps in, you then need to determine 
+your capability to roll out Agile with minimal impact on productivity. 
+
+Once you understand what Agile really is, then you'll need to assess how Agile can help you 
+with your business problems. 
+
+Agile will be more successful when you can tie it to your specific needs. 
+So you need to know what your needs are. And then finally, once you understand the initial Agile practices you want to pursue, 
+
+you can then test that assessment work by running a Agile pilot project.
+
+The pilot project allows you to test your assumptions about the amount of Agile that 
+you think your organization can absorb. 
+
+And it's also going to initialize that cultural transformation for Agile 
+throughout the company. 
+
+Okay, so let's look at the Agile principles from the Agile Manifesto. 
+So the Agile Manifesto, it outlines 12 principles to help focus on delivering maximum value 
+against business priorities in the time and the budget that's allowed. 
+
+They describe a culture where change is welcome, and the customer is the focus of the work.
+
+So let's look at the 12 principles individually. 
+So the first one we have is 
+
+*** customer satisfaction. 
+
+
+And customer satisfaction can be achieved through early and continuous software delivery. 
+Customers are happier when they receive working software at regular interviews, 
+rather than waiting for extended periods of time between releases. 
+
+As well as that, 
+
+*** collaboration. 
+So collaboration between business stakeholders and developers throughout the project lead to better decisions, 
+when the technical and the business team are aligned.
+
+So 
+
+*** accommodating changing 
+
+requirements throughout the development process also gives 
+the ability to avoid delays when requirements or feature requests change. 
+
+As well as that, we want 
+
+*** motivated teams. 
+So we want to support, trust, and motivate the people involved. 
+Motivated teams are generally more likely to deliver their best work than unhappy teams. 
+
+*** Frequent delivery,
+
+so we want frequent delivery of working software. 
+And scrum accommodates this principle, since the team operates in software sprints or iterations. 
+And those ensure regular delivery of working software. 
+
+And then 
+*** face-to-face interactions. 
+Communication is more successful when development teams are co-located.
+And if co-location isn't possible, 
+then definitely face-to-face interactions, as opposed to voice conversations. 
+
+Okay, what else have we got? 
+
+Well, the next thing is :
+
+*** working software. 
+
+Working software is the primary measure of progress. 
+Delivering functional software to the customer is the ultimate factor that measures progress. 
+
+*** Simplicity, 
+
+so we want to develop just enough to get the job done for right now. 
+
+
+*** A consistent pace. 
+So the Agile process supports a consistent development pace.
+
+So teams will establish a repeatable and maintainable speed at which they can
+deliver working software, and then they repeat that with each release. 
+
+*** Self-organizing teams. 
+
+Self-organizing teams generally encourage great architectures, 
+skilled and motivated team members who are given and have decision-making power. 
+They take ownership, they communicate regularly with other team members. 
+And they share ideas that deliver quality products. 
+
+*** Technical detail, attention to technical detail and design enhances agility.
+
+The right skills and good design ensure us that the team can maintain their pace constantly improve the product, 
+and sustain change. 
+
+And then 
+*** process review. So regular reviews and reflections on how to become more effective. 
+So like self-improvement, process improvement, 
+advancing skills and their techniques help team members work more efficiently. 
+The intention of Agile is to align development with business needs. 
+Agile projects are customer focused, and encourage customer guidance and participation. 
+
+* Some of the common reasons to use Agile. 
+Agile will be most successful if you can tie it to your specific needs.
+
+So some reasons why companies are moving to Agile are to :
+ ***reduce cycle time. 
+One example would be that competitor's often beating them to the market with product updates. 
+So they want to reduce their cycle time. 
+
+ *** Project adaptability
+
+The need to adapt, mid-project. 
+Companies are often paralyzed mid-project by discoveries that introduce risks and issues. 
+
+*** Increase project transparency and status
+
+Companies also struggle with transparency and status. 
+A common example occurs if you ask two project team members where they are in a project, 
+and you get two unique answers.
+
+*** Increase product quality
+
+And then increase product quality. 
+So not delivering quality products. 
+Companies rush to get to the market quicker, and then spend many months fixing production bugs. 
+
+Understand your capabilities:
+
+So to continue on the road to Agile, you'll need to determine how to roll out Agile with minimal impact on productivity. 
+Agile will definitely *** slow you down initially. 
+And if you start by trying to move to a mature level of Agile across your entire organization, 
+you may find that it becomes overwhelming and becomes a great risk to your business.
+
+Possible to reduce that risk by *** assessing where you are today*** and the ***level of Agile*** 
+that your company can adopt without repercussions to existing project delivery. 
+
+*** By reviewing your existing processes***, through conducting some ***in-person interviews.*** 
+And then through the use of numerous ***Agile survey tools***. 
+
+Once you've assessed your company's capabilities, 
+you can then determine which Agile practices will be in the initial rollout with minimal risk and resistance. 
+And then lay out a plan to increase Agile maturity over time. 
+
+* How to choose a Pilot:
+
+So once you understand the initial Agile practices you want to roll out, 
+you can test your assessment by running a pilot project, a pilot Agile project.
+
+So the pilot will also help to initialize the cultural transformation to Agile throughout your company. 
+
+It will also require the creation of a core team. 
+A cross-functional group that usually includes representation from all of the 
+functional areas who work with an Agile coach to design a custom life cycle to review 
+the pilot results. 
+And then to promote alignment throughout the company. 
+
+There's some useful guidelines to aid in choosing the right pilot project. 
+So it should be ***short time frame***, and it can be completed in 8 to 12 weeks.
+This allows for quick feedback on whether practices are working. 
+It has a medium to high business priority. 
+
+*** High business value
+
+So there's a level of pressure and visibility on the project. 
+
+*** Medium to high business priority
+
+It will touch most of the functional areas within a company. 
+So that you can learn as much as possible about your capabilities, 
+and then detect potential cross-functional issues. 
+
+*** Internal customer
+
+And as well as that, it has to be on an internal customer only. 
+A real customer may not tolerate you working out these issues using Agile. 
+And they could dictate that you use your old process so they can get to their product sooner.
+
+3. Video: Agile Development Process

@@ -1,0 +1,260 @@
+4 values 
+12 principles
+
+values : 
+1. We value Individuals and Interactions over Processes and Tools
+2. working software over comprehension documentation ( developed, tested integrated, documented)
+3. customer colaboration vs negotiating (start, time, stop)
+4. responding to change over following a plan
+
+Principles :
+
+Customer focused - value
+1. Early and continous delivery or software
+2. Welcome changing requirments
+3. Deliver working software frequently
+
+Team focused:
+4. buisness and developers work together daily
+5. build projects around motivated individuals
+6. encourage face-to-face conversation
+
+Development focused:
+7. Working software shows progress
+8. Sustainable development pace
+9. Requires technical excellence and good design
+Regular
+Remaining principles:
+10. Simplicity
+11. Self-organizing teams
+12. Regular team retrospective and adaptation
+
+
+
+*** Whole team approach 
+
+no more effective leadership
+
+- participate : all team - max 7 members - colocated -> no barrier, informal meatings, quality
+effective , colaborartion, communication - become experts in many areas instead of one SME
+
+***Early frequent feedback 
+ensure proper direction
+* product development increment at every sprint - get stackholder feedback
+* product backlog
+waterfall development break activities into phases:
+- design then
+- development then
+- testing
+
+feedback is gathered at end of each iteration
+important for adopting modifications
+helps deliver highest business value features
+ Benefits :
+
+break down all requirements:
+separate ito small pieces of individual work
+help avoid mistakes
+robust product development
+	build exacly what customer wants
+early clarification
+reduce misunderstandings of requirements
+continous improvment
+
+*** XP -extreme programming 
+
+rapid small release of software
+relies on colaboration of small teams
+design develop test update
+Core -valuee
+	communications
+	simplicity
+	feebdack
+	courage
+
+collective ownership
+encourage collaboration
+continous integration - the entire is buid and tested
+
+fatigue and overwork
+energized- more alert more productive
+shared workspace
+instant feedback
+improved communication
+boosts productivity
+
+On site customer --> faster
+
+*** Scrum
+quick iteration cycles
+focus on product increment after every iteration
+based on iterative approach
+
+sprint duration : 1-2 weeks
+
+sprint1       --->     sprint2   --->   sprint3
+     product increment	product increment
+
+
+each sprint means :
+
+planning and analysis
+design and development
+testing
+delivery of product incremnet to customer
+
+diffrence against waterfall (wait for each step to complete)
+
+
+Scrum Roles :
+
+Product Owner - responsable for Product Backlog,Decisions, Prioritize , Maintain, Reject , Accept
+The Team - self organiz
+Scrum Master - keeper of the Process, avoid any problem
+
+No - derailed, right meetings, processes,right conversations
+	
+
+
+*** Kanban - flexibility by limiting work in progress --> done
+
+Product Owner takes care about :
+	can re - prioritize
+	no need of iterations of fixed length
+
+metric - cycle time
+key metric
+helps to forecast future work
+avoid - single person skill - > can create bottleneck--> spread knowledge & mentoring .
+but multitasking impact negatively
+
+ways to avoid WIP (Work in Progress):
+	reveal bottleneck
+	backups
+
+causes :
+	lack of focus
+	people
+	skill
+
+Continous Improvment :
+	
+	visual representations
+	control charts for cycle time
+	cummulative flow diagrams
+
+collaborative user stories
+
+user story components :
+
+	written descrption of a required functionality
+	(what system must do)
+	conversation between customer and developer, acceptance criteria
+	testing - verify customer needs are being met
+
+5 main steps :
+1. write user story. 
+	2. select an iteration step.
+		3. estimate work.
+			4. Prioritize and allocate stories.
+				5. update estimates and stories.
+
+
+Creating user stories :
+
+Invest
+
+I Independent - reduce dependencies
+N Negotiable - between
+V Valuable - deliver value to customer
+E Estimable - to vague  to estimate ?? goal - clear
+S Small - 1-2 days
+T Testable - required in order to deliver completed product
+
+
+*** Retrospectives 
+
+special meetings that take place at end of the work + facilitator
+
+	end of iteration or release
+	last day of sprint
+	team-driven
+
+Purpose :
+	inspect + adapt process
+	analyze results
+	identify ways to improve
+investigate + troubleshoot -NO
+
+what to improve ?
+	efectivness - avoid to look to fair in past or in future
+	productivity ? overbocking 
+	quality
+	satisfaction
+
+Review : what was good  and not
+	root cause
+	have and maintain data
+	learnings
+	individual performance
+
+
+***CI / Continous Integration : what is ?
+
+merging all developer's working copies of code into a mainline
+building the merged code at least once a day.
+
+why ? 
+
+minimize effort and overall duration required for each integration
+deliver product versions suitable for release
+
+
+relies on : tools 
+
+testing 
+automation
+version control
+scheduling
+
+
+benefits ?
+
+detecting defect early
+simplify debug process
+minimize integration phase
+immdediate feedback to developers
+visibility 
+
+
+***Release and iteration planning 
+
+strategy for implementing
+testers must be involved . test planning and testing risks - create testing tasks	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

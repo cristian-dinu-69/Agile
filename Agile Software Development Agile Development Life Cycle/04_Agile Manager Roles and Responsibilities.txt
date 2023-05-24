@@ -1,0 +1,113 @@
+Objectives
+describe the manager's role in a self-organizing team
+Agile Manager Roles and Responsibilities.
+
+In this video, I'm going to describe the manager's role on a self-organizing team. 
+
+So Scrum and other Agile methods, though they focus on team roles and their dynamics, 
+and because of the emphasis on self-organizing teams in Agile, there's sometimes a misconception that there's no need for a manager.
+But if we consider how people decide what to work on, let's say that in a traditional organization, 
+a manager might assign a team member to work on a certain task. 
+But on an Agile team, the team will decide how they'll allocate the work, 
+where the individual team members commit themselves to specific tasks.
+
+So this doesn't mean that the manager has no influence on how the work's allocated. 
+It just means that the manager needs to give advice about the team's decision rather than assigning the work. 
+So as an organization transitions to Agile, there are certain aspects of managers that remain essentially unchanged. 
+
+So first is that managing budgets. 
+So if a project or a budget falls under a management oversight, they still need to manage those things. 
+
+Certain line items and allocations might change as the Agile processes are tested and implemented, 
+but the basic budgetary processes won't. 
+Providing leadership, setting expectations, best practices as an Agile leader.
+
+So the team will still look to the Agile leader to help set expectations and best practices, 
+conduct reviews, provide support for the cultural and technical best practices. 
+Personnel management, and as the organization accepts the Agile framework, 
+the type of candidates that fit that environment might change. 
+But the basic recruiting functions are still going to remain the same. 
+And then putting out fires, so inevitably, problems are going to arise that an 
+individual or the team are not going to be able to solve on their own. 
+So it's the manager's responsibility to take the ball and run with it so that everybody can get back to work.
+
+So managers and leaders have a number of roles in Agile organizations including setting directions, 
+making staff decisions, helping team members. 
+
+Traditional management often relies more on command rather than influence. 
+So for Agile teams, the opposite needs to be true. 
+Using influence can be more effective in the long term of an organization and it's essential in an Agile team. 
+Command culture can hinder a team's ability to develop self-organizing skills, and which are at 
+the heart of Agile and the value that that brings to an organization. 
+So what are the managers responsible for in an Agile world?
+
+Well, they are **championing** the Agile process, 
+
+they get behind it and help support it. 
+They participate in transition planning, so Agile promotes self-organized teams that work efficiently. 
+
+And it's up to management to facilitate that multi-team interaction. 
+They guide teams to solve problems. So Scrum masters, product owners, those are the new positions 
+and they may absorb responsibilities that managers previously had. 
+And then find ways to reduce waste. 
+So eliminating impediments is going to continually improve the workflow and maximize the efficiency. 
+And that might not be part of a normal manager's role.
+
+So within an Agile development, Scrum kind of has the most to say about exactly what Agile project management is. 
+So let's use Scrum as our model for answering the question. 
+So on a Scrum project there are three roles, there is a 
+*** product owner, 
+*** Scrum master, and 
+*** team. 
+
+The product owner is responsible for the business aspects of the project. 
+The Scrum master serves as the team coach, helping the team members work together. 
+So the Scrum master is the team role that's responsible for ensuring that the team lives Agile values and 
+principles and follows the processes and practices that they agreed they would use.
+
+So the Scrum master role was created so that the person in the Scrum master position could 
+be a **coach** and an **expert** that can coach others. 
+
+That they would provide a service to the team by **clearing obstacles** and **removing impediments to progress.**
+
+And that they would also be able to provide and perform typical **project management duties**
+such as **tracking progress.**
+
+Now, who handles conventional project manager duties in Agile development?
+Well, traditional project managers usually take on a great deal of responsibility.
+
+They are usually involved in :
+defining scope, 
+managing cost, 
+making personnel decisions, 
+and risk management. 
+
+In order to do all of these things, a project manager must work to ensure that multiple projects are successful. 
+
+So where does Scrum master fit in an Agile project manager's roles and responsibilities? 
+So in Agile project management, the world may come to view the Scrum master as a 21st century version of the project manager. 
+But they're not exactly like a project manager. 
+The Scrum master is not viewed as the person to credit for the success or the failure of the project.
+
+
+There, Scrum master's authority extends only to the process that's happening at the time. 
+And they are an expert on the Agile process, not on the delivery of the product, and their job is to act as a coach or a facilitator 
+and motivate the team. But a Scrum master doesn't always have many traditional responsibilities. 
+
+For example, scope, cost, personnel, and risk management, that a project manager does. 
+A Scrum master is generally focused specifically on one project team. 
+So who handles conventional project manager duties in Agile development?
+
+So when transitioning to Agile, you need to be comfortable with the fact that a project manager 
+is no longer the focal point of the project and no longer plans and drives that work for the teams. 
+
+The responsibility becomes decentralized, as everyone on the project is truly responsible for its success 
+in terms of scope and schedule. 
+So where in the past, a project manager may have assigned tasks, the team now works together to assign tasks.
+
+The day-to-day project decisions revert back to the team where they rightfully belong. 
+The difficult scope and schedule trade-offs are now passed to the product owner who defines and manages the scope. 
+And then quality management becomes the responsibility shared amongst the team, 
+product owner, and the Scrum master.
+So while the project may have some control points, 
+the responsibility to deliver is generally handled by everyone on the project.
