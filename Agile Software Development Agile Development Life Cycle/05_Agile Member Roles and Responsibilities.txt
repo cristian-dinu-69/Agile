@@ -1,0 +1,111 @@
+Objectives
+
+Agile Member Roles and Responsibilities.
+
+In this video, I'm going to identify the roles and responsibilities of Agile team members.
+So there're several key differences between the Agile approach to team organization and the traditional approach.
+So let's look at those. 
+So the idea of whole teams, Agile teams are seen as whole teams. 
+The concept of whole teams comes from extreme programming, which is an Agile methodology. 
+And this concept advises you that to have sufficient skills within the team to get the job done.
+
+This means that the development team has the skills necessary, for example, database skills, UI skills, and so on. 
+So that the team doesn't rely on external experts, or teams of experts, for these sorts of things. 
+Then we have generalizing specialists. Agile teams are formed of generalizing specialists. 
+So a generalizing specialist could be called a crafts person. 
+It's someone who has one or more technical specialties. 
+For example Java programming, so that they can contribute something of direct value to the team.
+
+They'll also have a general knowledge of software development and the business domain that they're working in. 
+And it's also important that these specialists are gaining new skills in their existing specialities as well as in other areas. 
+So a generalizing specialist is kind of the sweet spot between the two extremes of specialists.
+
+People who know a lot about a narrow domain and generalists who know a little about a wide range of topics. 
+So you could say that they match the definition of what we generally call T-shaped individuals. 
+And then Agile teams are stable. 
+Projects where the team structures change frequently is detrimental to project success, so keep Agile teams as stable as possible. 
+And then it's much easier to achieve if people are generalizing specialists.
+
+Small Agile Team Roles.
+
+So despite sharing common values, there's no formula for the perfect Agile team, some implement scrum, some implement Kanban. 
+And within the teams, there are several roles which can have different names depending on the methodology that's being followed. 
+Roles are not positions though, any person can take one or more roles and can switch roles overtime. 
+So the common Agile roles are the team lead, they can be also called the scrum master or the team coach or sometimes project lead.
+
+And that role is responsible for facilitating in a team, obtaining resources, and protecting it from problems. 
+It's most similar to the traditional project manager. 
+But it doesn't involve some of those necessary skills like planning and scheduling which are better left to the team as a whole. 
+Product owner, so the product owner's often an executive or a key stakeholder. 
+And that person has a vision for the end product and a sense of how it's going to fit into the company's long term goal. 
+They'll be responsible for their prioritized work item list called the backlog in scrum and for making decisions in a timely manner. 
+Then we have team members.
+
+And they're generally the makers, the front and the backend engineers, the copywriters, designers, videographers, whatever the project requires. 
+The team members will have varied roles and skills, but they're responsible for getting the stuff done on time and excellent quality. 
+And then we've got stakeholders. 
+They can include anyone who's a direct user, an indirect user, a senior manager, a funder of the project, a portfolio manager, or even a developer working in another system that needs to integrate or interact with the one that's being developed.
+
+Small Agile Team Supporting Cast.
+
+What we've seen so far is that an Agile team can be made up of a team of developers led by the team lead, 
+working closely with a product owner to build a high quality working system on an incremental basis. 
+So supporting roles are then sometimes introduced on a temporary basis to address things like scaling issues. 
+And some examples of those supporting roles could be technical experts. So sometimes the team needs the help 
+of technical experts like a database administrator to help design their databases. 
+And they're brought in as needed on a temporary basis to help the team overcome a difficult problem.
+
+Domain experts, these are...so the product owner represents a wide range of stakeholders, not just end users. 
+And it's not reasonable to expect them to be experts in every single part of the domain. 
+So the product owner will sometimes bring in a domain expert to work with the team. 
+For example, if you had a health care product, they might bring in a doctor to explain the details of a requirement.
+
+Or they might bring in a sponsoring executive to help explain the vision for the project to the team. 
+And then independent tester, Agile teams on very complex projects, will sometimes or often opt to have an independent test team. 
+And that team will work in parallel to help to validate the work being completed throughout the iteration 
+or the life cycle of the project. 
+So when an Agile team grows to be around 20 or more members, it's typically divided into a team of teams.
+
+Large Agile Team Additional Roles.
+
+And the most effective way to do that is around the architecture of the system. 
+So each sub team should be responsible for and more subsystems, enabling them to 
+work as a small Agile team responsible for delivering working software on a timely basis. 
+This strategy is often referred to as Conway's law after Melvin Conway who introduced this idea in the late 1960s. 
+The independent teams can own the whole life cycle of the services that they create, affording them a greater degree of autonomy that's possible for larger teams.
+
+So these large teams will require additional roles, and they're going to require an architectural owner. 
+And this role is responsible for facilitating the architectural decisions on a sub team. 
+And is part of the architectural owner team which is responsible for the overall architectural direction of the project. 
+So this individual leads the sub team through the initial architectural envisioning, and then will be involved with the architecture envisioning for the system as a whole as well. Architecture owners are different from traditional architects because they're not solely responsible for setting the direction.
+
+But instead, they help and support the direction. 
+And then we have the integrator. 
+The integrator, we can say that it goes without saying, that the larger the overall team, the larger and more complicated the system being built. 
+So when you have sub teams that are responsible for one or more subsystems, the overall team may require one or more people in the role of an integrator, who would be responsible for bringing the subsystems together to build the entire system. 
+This role also works closely with the test team to help carry out system integration testing regularly throughout the project.
+
+As an Agile team grows, there's a number of critical issues that need to be managed and addressed. 
+So project management activities, 
+when you're working at scale, the technical aspects of project management like dependency management, contract management, etc. become critical. 
+So it's no longer to just focus on project leadership and allow self-organizing teams to work out the technical aspects. 
+The project management or program management team should be compromised of team leads from various sub teams. 
+And their goal is to coordinate the management aspects of the overall team.
+
+We would have product ownership issues. So the product ownership team is made up of the product owners of each sub team.
+And it's responsible for the requirements dependencies between subteams and minimizing any overlapping work between them. 
+They'll need to negotiate requirements with the larger body of stakeholders and then divide them all out amongst the subteams. 
+Technical or architectural issues, so the architecture ownership team is then made up of architecture owners, from the individual sub teams. 
+And that's responsible for envisioning the architecture at the beginning of the project.
+
+So this envisioning helps to identify the initial technical direction and provide basis for organizing the sub teams.
+In the first week or so of the project, their goal is to identify the subsystems and their interface. 
+And then finally, system integration, so this is critical in large teams that address complex problems. 
+Because those complexities often require an additional systems integrator. 
+And this occurs throughout the entire Agile life cycle, not just in the test phase of a traditional project. 
+So during the first development iteration, the sub teams will create mocks of their systems. 
+And this will basically allow a complete end to end build of the mocked out system to ensure that the sub teams are working to the same technical vision.
+
+Each team will evolve their subsystem through the project and then will replace the mocked out portions of code with actually real working code. 
+And then these new versions are made available to the other subteams, who will then choose when they want to integrate them into their own environments. 
+At that time, if the independent testing team only have mocks of the system, they can at least start organizing their test frameworks for the system.
